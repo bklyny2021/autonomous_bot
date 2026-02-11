@@ -1,0 +1,2 @@
+# Core dependencies for autonomous agent
+requests>=2.31.0
