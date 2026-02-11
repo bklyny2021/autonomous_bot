@@ -1,0 +1,5 @@
+# Security boundaries - Agent can only modify these paths
+agent/
+docs/
+tools/
+scripts/
